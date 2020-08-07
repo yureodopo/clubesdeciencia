@@ -129,7 +129,7 @@ d. 9 de febrero
 
 e. 10 de febrero
 
-########################################################################################
+#####################################################################
 Ejercicio: Encuentra de dónde viene el brote
 
 Pregunta 1
@@ -174,25 +174,20 @@ como respondieron el cuestionario tenemos informacion sobre ellos por lo cual de
 Pregunta 3
 Usando la definición de caso que su grupo ha acordado, calcule la tasa de ataque por separado entre los miembros y los invitados. ¿Cómo se comparan y cuáles son las razones por las cuales podrían ser iguales o diferentes?
 
+TASA DE ATAQUE DE MIEMBROS:0.53 
 
+TASA DE ATAQUE DE INVITADOS:0.71
 
-
-
-
-
-
+La razon de porque son iguales tiene que ver con el hecho de que la fiebre es una señal de que el sistema inmune esta actuando y aunque el dolor de cabeza tambien se presento en varias personas tal vez sea un efecto adverso a la infeccion mas que un sintoma ademas algo que ya habia pensado era que tal vez el alimento infeccioso fuera las verduras que se utilizaron en las ensaladas pues la mayor parte consumio la ensalada de atun o la de huevo
 
 Pregunta 4
 En función de estas tasas de ataque y las tasas de respuesta que calculó previamente, ¿incluiría miembros, invitados o ambos en su denominador al calcular las tasas de ataque?
 
-
-
-
-
-
-
+incluiria a ambos como un solo grupo , pero si se separia en grupos por dias para checar el periodo de incubacion
 
 Pregunta 5
 Compare la curva epidémica que generó en casa con la de los otros miembros de su grupo. son todos iguales? ¿Cuáles son algunas similitudes y diferencias?
 
 Describa la curva epidémica tabulando los casos por día de inicio y, cuando sea posible, por hora del día. Al tabular la curva epidémica, ¿puede utilizar los datos de miembros, invitados o ambos?
+
+Link a la grafica:"https://docs.google.com/document/d/1gXJTOiWGhAPydCVoYiAxKfd6c9mDcdNOGMFSTIkG6rA/edit?usp=sharing"
