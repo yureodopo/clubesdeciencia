@@ -129,12 +129,70 @@ d. 9 de febrero
 
 e. 10 de febrero
 
-############################################################################################################################################################################
+########################################################################################
 Ejercicio: Encuentra de dónde viene el brote
 
 Pregunta 1
+
 En la primera parte del ejercicio, usaste "dolor de garganta" como definición de caso. 
 ¿Crees que esta es la mejor definición de caso?¿Por qué o por qué no? Llega a una decisión sobre qué síntoma (s) se debe incluir en la definición de su caso. Lo usarás para determinar el numerador de las tasas de ataque que calcularás más adelante. 
+
 R:"tal vez fue uno de los sintomas que mas se repitio en los pacientes pero aun asi estan la fiebre y el dolor de cabeza como tambien sintomas comunes en la enfermedad y considerar un solo sintoma no hace que el caso sea estricto por lo que las personas que cuenten como casos no necesariamente desarollaron la enfermedad a mi criterio se supone que la fiebre es un mecanismo que muestra que nuestro sistema inumune esta combatiendo antigenos, por lo que prefiero agregrar a la consideraccion de un caso el sintoma de fiebre"
 
+Pregunta 2
+Discuta las razones para incluir o excluir lo siguiente en su población de estudio para calcular la tasa de ataque:
 
+a. Miembros que no asistieron al almuerzo
+
+sera excluido porque no existio contacto con indivuos ni con el patogeno
+
+b. Miembros que asistieron al almuerzo pero que no pudieron ser contactados
+
+por el momento fueron pocos los que no pudieron ser contactados asi que no hay un problema grave al ser excluidos 
+
+c. Se contactó a los miembros que asistieron, pero no comieron
+
+tal vez pueden ser considerados por algun contacto que pudieran tener con otra persona
+
+d. Los miembros que asistieron se contactaron y comieron
+
+aqui si deben incluirse por que si pensamos que la enfermedad se encontraba en los alimentos estos son los que tuvieron contacto con ellos
+
+e. Familiares que no asistieron al almuerzo
+
+si por algun contacto con los contagiados que pudo transmitir la enfermedad
+
+f. Los invitados que asistieron al almuerzo, pero no respondieron al cuestionario
+
+como no respondieron el cuestionario no tenemos informacion sobre ellos por lo cual no nos sirven
+
+g. Los invitados que asistieron al almuerzo y respondieron al cuestionario
+
+como respondieron el cuestionario tenemos informacion sobre ellos por lo cual deben incluirse
+
+
+Pregunta 3
+Usando la definición de caso que su grupo ha acordado, calcule la tasa de ataque por separado entre los miembros y los invitados. ¿Cómo se comparan y cuáles son las razones por las cuales podrían ser iguales o diferentes?
+
+
+
+
+
+
+
+
+
+Pregunta 4
+En función de estas tasas de ataque y las tasas de respuesta que calculó previamente, ¿incluiría miembros, invitados o ambos en su denominador al calcular las tasas de ataque?
+
+
+
+
+
+
+
+
+Pregunta 5
+Compare la curva epidémica que generó en casa con la de los otros miembros de su grupo. son todos iguales? ¿Cuáles son algunas similitudes y diferencias?
+
+Describa la curva epidémica tabulando los casos por día de inicio y, cuando sea posible, por hora del día. Al tabular la curva epidémica, ¿puede utilizar los datos de miembros, invitados o ambos?
