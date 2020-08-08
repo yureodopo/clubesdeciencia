@@ -191,3 +191,29 @@ Compare la curva epidémica que generó en casa con la de los otros miembros de 
 Describa la curva epidémica tabulando los casos por día de inicio y, cuando sea posible, por hora del día. Al tabular la curva epidémica, ¿puede utilizar los datos de miembros, invitados o ambos?
 
 Link a la grafica:"https://docs.google.com/document/d/1gXJTOiWGhAPydCVoYiAxKfd6c9mDcdNOGMFSTIkG6rA/edit?usp=sharing"
+
+Pregunta 11
+
+Construya una secuencia probable de eventos que condujeron al brote de dolor de garganta agudo. ¿Crees que los manipuladores de alimentos fueron propagadores del brote o víctimas? ¿Puedes postular errores en la manipulación y preparación de los alimentos que contribuyeron al brote de dolor de garganta? ¿Cómo puede ser útil esta información para prevenir futuros brotes?
+
+los manipuladores de alimentos fueron propagadores del brote infectando los alimentos y las personas al retirarse probablemente por la interaccion social(pues algunos que asistieron tienen una relacion social cercana) contaminaron a las demas personas que no habian ingerido los alimentos contaminados a traves e secreciones respiratorias, por los errores en la manipulacion estan la limpieza de los ayudantes pues el ayudante mostraba sintomas de una piodermitis y no de una faringoamigdalitis, tambien se debieron congelar los productos a una temperatura menor a los 0°c preferentemente a los -5°c para disminuir la probabilidad de supervivencia. la informacion fue util porque nos permitio conocer al agente causante conociendo la rutina y la sintomatologia que la bacteria siguio y nos permitira realizar mas medidas de higiene y seguridad que disminuyan la probabilidad de nuevos incidentes referentes a brotes
+
+secuencia probable de los hechos
+
+•	Compra de los huevos 
+
+•	Preparación de los huevos en las casas
+
+•	Posible adquisición de la bacteria estreptococo del grupo A por el ayudante de cocina antes de trabajar en la preparación del platillo
+
+•	Entrega al restaurador el 5 de febrero
+
+•	Preparación del platillo el 5 de febrero en la noche contacto del ayudante con los alimentos dando lugar a que los alimentos fueran infectados y la supervivencia de la bacteria se debió a que se ha registrado que ha podido inocularse en alimentos como ensaladas, pasta fría y preparaciones con huevo
+
+•	6 de febrero día del almuerzo e ingestión del platillo infectado , aun con las 9 horas en el refrigerador la temperatura minima para esta familia de bacterias oscila entre los 10°c por lo que pudo sobrevivir con afectaciones menores además si la congelación fue lenta tuvo tiempo de activar sistemas de defensa que permiten la protección contra las sales que pudiera generar
+
+•	7-9 periodo de incubación de estreptococo del grupo A y tiempo en el que los síntomas se presentaron
+
+•	9-13 sistema inmune lucha contra la bacteria y los síntomas se presentan en forma de fiebre y dolor de garganta pues es un lugar común de proliferación de la bacteria asi como la piel
+
+•	13 dia de la encuesta
