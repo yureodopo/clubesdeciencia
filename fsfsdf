@@ -1,1 +1,209 @@
+EJERCICIO
 
+"Brote después de una deliciosa cena de caridad"
+
+Pregunta 1
+
+¿Cuál de las siguientes opciones se cumple al usar una definición de caso más estricta en comparación con una definición de caso menos estricta? Seleccione todas las que correspondan
+
+a. Más individuos que realmente tengan el resultado serán contados como casos
+
+b. Las personas que se cuentan como casos tendrán más probabilidades de tener realmente el resultado "TRUE"
+
+c. Más personas que realmente no tienen el resultado se contarán correctamente como no casos
+
+d. Las personas contadas como no casos serán más propensas a ser individuos que realmente no tienen el resultado"TRUE"
+
+Pregunta 2
+
+¿Cuál de las siguientes opciones es verdadera al usar una definición de caso menos estricta? Seleccione todas las que correspondan
+
+a. Más individuos que realmente tengan el resultado serán contados como casos "TRUE"
+
+b. Las personas contadas como casos serán más propensas a ser individuos que realmente tengan el resultado
+
+c. Más personas que realmente no tienen el resultado se contarán correctamente como no casos "TRUE"
+
+d. Las personas contadas como no casos serán más propensas a ser individuos que realmente no tienen el resultado
+
+Pregunta 3
+
+¿La tasa de respuesta para los miembros cae en cuál de los siguientes intervalos? Seleccione la mejor respuesta
+
+a. [0%, 10%]
+
+b. [50%, 60%]
+
+c. [70%, 80%]
+
+d. [90%, 100%]"TRUE"
+
+Pregunta 4
+
+¿La tasa de respuesta para los huéspedes cae en cuál de los siguientes intervalos? Seleccione la mejor respuesta
+
+a. [0%, 10%]
+
+b. [40%, 50%]
+
+c. [60%, 70%]
+
+d. [90%, 100%]"TRUE"
+
+Pregunta 5
+
+Definimos el término "en riesgo" como aquellas personas que pueden experimentar la exposición al agente causal. ¿Cuál de los siguientes grupos se puede considerar 'en riesgo' en este brote si creemos que los resultados se deben a una enfermedad transmitida por los alimentos? Seleccione la mejor respuesta
+
+a. Todos los miembros y sus familias
+
+b. Todos los miembros e invitados que asistieron al almuerzo
+
+c. Todos los miembros e invitados que asistieron al almuerzo y comieron"TRUE"
+
+d. Todos los miembros e invitados que asistieron al almuerzo, comieron e informaron tener síntomas
+
+Pregunta 6
+
+El Departamento de Salud administró el cuestionario una semana después del almuerzo. ¿Cuál de los siguientes grupos podría considerarse una "población cerrada"? Seleccione la mejor respuesta:
+
+a. Todos los miembros que asistieron al almuerzo y comieron
+
+b. Todos los miembros que asistieron al almuerzo, comieron y respondieron el cuestionario"TRUE"
+
+c. Todos los miembros que asistieron al almuerzo, comieron, respondieron al cuestionario e informaron tener síntomas
+
+Pregunta 7
+
+¿La tasa de ataque cae en cuál de los siguientes intervalos? Seleccione la mejor respuesta
+
+a. [10%, 20%]
+
+b. [25%, 35%]
+
+c. [65%, 75%]"TRUE"
+
+d. [80%, 90%]
+
+Pregunta 8
+
+¿La tasa de ataque entre las personas que comieron ensalada de atún cae en qué intervalo? Seleccione la mejor respuesta:
+
+a. [20%, 30%]
+
+b. [35%, 45%]
+
+c. [60%, 70%]
+
+d. [75%, 85%]"TRUE"
+
+Pregunta 9
+
+La tasa de ataque entre las personas que no comieron ensalada de atún cae en qué intervalo? Seleccione la mejor respuesta
+
+a. [25%, 35%]
+
+b. [45%, 55%]
+
+c. [60%, 70%]"TRUE"
+
+d. [75%, 85%]
+
+Grafica la distribución de casos por día de inicio, y cuando sea posible por hora del día.
+
+Link a la grafica:"https://docs.google.com/document/d/1gXJTOiWGhAPydCVoYiAxKfd6c9mDcdNOGMFSTIkG6rA/edit?usp=sharing"
+
+Pregunta 10
+
+¿Cuál fecha tiene la mayor cantidad de casos? Seleccione la mejor respuesta
+
+a. 6 de febrero
+
+b. 7 de febrero"TRUE"
+
+c. 8 de febrero
+
+d. 9 de febrero
+
+e. 10 de febrero
+
+##################################################################### Ejercicio: Encuentra de dónde viene el brote
+
+Pregunta 1
+
+En la primera parte del ejercicio, usaste "dolor de garganta" como definición de caso. ¿Crees que esta es la mejor definición de caso?¿Por qué o por qué no? Llega a una decisión sobre qué síntoma (s) se debe incluir en la definición de su caso. Lo usarás para determinar el numerador de las tasas de ataque que calcularás más adelante.
+
+R:"tal vez fue uno de los sintomas que mas se repitio en los pacientes pero aun asi estan la fiebre y el dolor de cabeza como tambien sintomas comunes en la enfermedad y considerar un solo sintoma no hace que el caso sea estricto por lo que las personas que cuenten como casos no necesariamente desarollaron la enfermedad a mi criterio se supone que la fiebre es un mecanismo que muestra que nuestro sistema inumune esta combatiendo antigenos, por lo que prefiero agregrar a la consideraccion de un caso el sintoma de fiebre"
+
+Pregunta 2 Discuta las razones para incluir o excluir lo siguiente en su población de estudio para calcular la tasa de ataque:
+
+a. Miembros que no asistieron al almuerzo
+
+sera excluido porque no existio contacto con indivuos ni con el patogeno
+
+b. Miembros que asistieron al almuerzo pero que no pudieron ser contactados
+
+por el momento fueron pocos los que no pudieron ser contactados asi que no hay un problema grave al ser excluidos
+
+c. Se contactó a los miembros que asistieron, pero no comieron
+
+tal vez pueden ser considerados por algun contacto que pudieran tener con otra persona
+
+d. Los miembros que asistieron se contactaron y comieron
+
+aqui si deben incluirse por que si pensamos que la enfermedad se encontraba en los alimentos estos son los que tuvieron contacto con ellos
+
+e. Familiares que no asistieron al almuerzo
+
+si por algun contacto con los contagiados que pudo transmitir la enfermedad
+
+f. Los invitados que asistieron al almuerzo, pero no respondieron al cuestionario
+
+como no respondieron el cuestionario no tenemos informacion sobre ellos por lo cual no nos sirven
+
+g. Los invitados que asistieron al almuerzo y respondieron al cuestionario
+
+como respondieron el cuestionario tenemos informacion sobre ellos por lo cual deben incluirse
+
+Pregunta 3 Usando la definición de caso que su grupo ha acordado, calcule la tasa de ataque por separado entre los miembros y los invitados. ¿Cómo se comparan y cuáles son las razones por las cuales podrían ser iguales o diferentes?
+
+TASA DE ATAQUE DE MIEMBROS:0.53
+
+TASA DE ATAQUE DE INVITADOS:0.71
+
+La razon de porque son iguales tiene que ver con el hecho de que la fiebre es una señal de que el sistema inmune esta actuando y aunque el dolor de cabeza tambien se presento en varias personas tal vez sea un efecto adverso a la infeccion mas que un sintoma ademas algo que ya habia pensado era que tal vez el alimento infeccioso fuera las verduras que se utilizaron en las ensaladas pues la mayor parte consumio la ensalada de atun o la de huevo
+
+Pregunta 4 En función de estas tasas de ataque y las tasas de respuesta que calculó previamente, ¿incluiría miembros, invitados o ambos en su denominador al calcular las tasas de ataque?
+
+incluiria a ambos como un solo grupo , pero si se separia en grupos por dias para checar el periodo de incubacion
+
+Pregunta 5 Compare la curva epidémica que generó en casa con la de los otros miembros de su grupo. son todos iguales? ¿Cuáles son algunas similitudes y diferencias?
+
+Describa la curva epidémica tabulando los casos por día de inicio y, cuando sea posible, por hora del día. Al tabular la curva epidémica, ¿puede utilizar los datos de miembros, invitados o ambos?
+
+Link a la grafica:"https://docs.google.com/document/d/1gXJTOiWGhAPydCVoYiAxKfd6c9mDcdNOGMFSTIkG6rA/edit?usp=sharing"
+
+Pregunta 11
+
+Construya una secuencia probable de eventos que condujeron al brote de dolor de garganta agudo. ¿Crees que los manipuladores de alimentos fueron propagadores del brote o víctimas? ¿Puedes postular errores en la manipulación y preparación de los alimentos que contribuyeron al brote de dolor de garganta? ¿Cómo puede ser útil esta información para prevenir futuros brotes?
+
+los manipuladores de alimentos fueron propagadores del brote infectando los alimentos y las personas al retirarse probablemente por la interaccion social(pues algunos que asistieron tienen una relacion social cercana) contaminaron a las demas personas que no habian ingerido los alimentos contaminados a traves e secreciones respiratorias, por los errores en la manipulacion estan la limpieza de los ayudantes pues el ayudante mostraba sintomas de una piodermitis y no de una faringoamigdalitis, tambien se debieron congelar los productos a una temperatura menor a los 0°c preferentemente a los -5°c para disminuir la probabilidad de supervivencia. la informacion fue util porque nos permitio conocer al agente causante conociendo la rutina y la sintomatologia que la bacteria siguio y nos permitira realizar mas medidas de higiene y seguridad que disminuyan la probabilidad de nuevos incidentes referentes a brotes
+
+secuencia probable de los hechos
+
+• Compra de los huevos
+
+• Preparación de los huevos en las casas
+
+• Posible adquisición de la bacteria estreptococo del grupo A por el ayudante de cocina antes de trabajar en la preparación del platillo
+
+• Entrega al restaurador el 5 de febrero
+
+• Preparación del platillo el 5 de febrero en la noche contacto del ayudante con los alimentos dando lugar a que los alimentos fueran infectados y la supervivencia de la bacteria se debió a que se ha registrado que ha podido inocularse en alimentos como ensaladas, pasta fría y preparaciones con huevo
+
+• 6 de febrero día del almuerzo e ingestión del platillo infectado , aun con las 9 horas en el refrigerador la temperatura minima para esta familia de bacterias oscila entre los 10°c por lo que pudo sobrevivir con afectaciones menores además si la congelación fue lenta tuvo tiempo de activar sistemas de defensa que permiten la protección contra las sales que pudiera generar
+
+• 7-9 periodo de incubación de estreptococo del grupo A y tiempo en el que los síntomas se presentaron
+
+• 9-13 sistema inmune lucha contra la bacteria y los síntomas se presentan en forma de fiebre y dolor de garganta pues es un lugar común de proliferación de la bacteria asi como la piel
+
+• 13 dia de la encuesta
