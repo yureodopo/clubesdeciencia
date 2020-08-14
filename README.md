@@ -12,7 +12,7 @@ Justificación
 Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y verificar su utilidad para disminuir la incidencia de casos infectados, así como el número de muertes, estableciendo medidas específicas de precaución en cada estado referente a sus necesidades.
 
 Metodología 
-**Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de Markov para determinar nuestros modelos relacionadas con el tema de investigación.
+**Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad me|Población(2015): 711,235| diante la identificación de variables por medio de Markov para determinar nuestros modelos relacionadas con el tema de investigación.
 **Sitio:** Colima y Ciudad de México.
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
@@ -43,9 +43,11 @@ Datos
 |22/junio| 8,814,979  |  40,021  |  34,837   |   5,184|
 |29/junio|            |          |           |        |
 
-|Población(2015): 711,235| 
+
+
+|                         CDMX                        |
 |-----------------------------------------------------|
-|                         CDMX                      |
+|Población(2015): 711,235                             |
 |-----------------------------------------------------|
 |Susceptibles|         Infectados|Recuperados| Muertes|
 |-----------------------------------------------------|
