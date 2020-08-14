@@ -20,6 +20,8 @@ Metodología
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 23/marzo  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
 | 17/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 22/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 29/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
 
 |--------|------------|----------|-----------|--------|
 Datos
