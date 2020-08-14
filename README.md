@@ -24,10 +24,10 @@ Datos:
 
 | fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23/marzo  |     8,854,940     | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| 17/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 23/marzo  |     8,854,940     | 60  | 58  | 2 |
+| 17/junio  | 8,785,548  | 61,351 | 53,250  | 8,101  |
 | 22/junio  |       8,814,979        |   40,021    | 34,837   |    5,184  |
-| 29/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 29/junio  | 8,800,426  | 48,014  | 41,454  | 6,560 |
 
 |                         COLIMA                      |
 |-----------------------------------------------------|
