@@ -22,21 +22,13 @@ Metodología
 | Contenido de la celda  | Contenido de la celda  |
 
 
-
-
-
-
-
-
-
-
 Datos
 
 
 |                         CDMX                        |
 |-----------------------------------------------------|
 |Población(2015): 8, 855, 000                         |
-|-----------------------------------------------------|
+|--------|------------|----------|-----------|--------|
 |contenid|Susceptibles|Infectados|Recuperados| Muertes|
 |23/marzo|  8,854,940 |    60    |     0     |    2   |
 |17/junio|      1     |   2      |       2   |      2 |
