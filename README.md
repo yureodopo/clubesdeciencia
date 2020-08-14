@@ -1,8 +1,3 @@
-AC 209 Data Science Final project 
-===================
-## by Benjamin Sanchez Lengeling (bsanchezlengeling@g.harvard.edu) 
-#### (Gifs loading, give it a minute, it's worth it)
-
 # Proyecto final pagina web
 
 # Subtitulos
