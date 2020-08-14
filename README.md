@@ -1,6 +1,6 @@
 # Proyecto final pagina web
 
-# Contents
+# Subtitulos
 - [subtitulo1](#subtitulo1)
 - [subtitulo2](#subtitulo2)
 - [subtitulo3](#subtitulo3)
