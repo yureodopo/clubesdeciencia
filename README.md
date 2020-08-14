@@ -7,6 +7,7 @@
 - [subtitulo4](#subtitulo4)
 - [subtitulo5](#subtitulo5)
 - [Equipo](#Equipo)
+
 Comparación de medidas preventivas para *SARS-Cov-2*
 
 # subtitulo1
