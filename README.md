@@ -1,16 +1,19 @@
 # Proyecto final pagina web
 
 # Subtitulos
+- [introduccion](#introduccion)
 - [subtitulo1](#subtitulo1)
 - [subtitulo2](#subtitulo2)
 - [subtitulo3](#subtitulo3)
-- [subtitulo4](#subtitulo4)
+- [conclusion](#conclusion)
 - [Video](#Video)
 - [Equipo](#Equipo)
 
-Comparación de medidas preventivas para *SARS-Cov-2*
+# introduccion
 
 # subtitulo1
+
+Comparación de medidas preventivas para *SARS-Cov-2*
 
 Objetivo
 
@@ -59,6 +62,8 @@ Datos:
 | 17/junio  | 710,000  | 1,102  | 969 | 133 |
 | 22/junio  | 710,854  | 339  | 297  | 42  |
 | 29/junio  | 710,684  | 551  | 480 | 71 |
+
+# conclusion
 
 # Video
 
