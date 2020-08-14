@@ -16,23 +16,37 @@ Metodología
 **Sitio:** Colima y Ciudad de México.
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
+
+
+
+
+
+
+
+
+
 Datos
 Población(2015): 8, 855, 000
 |                         CDMX                      |
------------------------------------------------------
+|-----------------------------------------------------|
         |Susceptibles|Infectados|Recuperados|Muertes
------------------------------------------------------
-23/marzo|  8,854,940 |    60    |     0     |    2
-17/junio|            |          |           |
-22/junio| 8,814,979  |  40,021  |  34,837   |   5,184
-29/junio|            |          |           |
+|-----------------------------------------------------|
+|23/marzo|  8,854,940 |    60    |     0     |    2|
+|17/junio|            |          |           |    
+|22/junio| 8,814,979  |  40,021  |  34,837   |   5,184|
+|29/junio|            |          |           |
 
-Población(2015): 711,235
+|Población(2015): 711,235|
 |                         CDMX                      |
------------------------------------------------------
+|-----------------------------------------------------|
         |Susceptibles|Infectados|Recuperados|Muertes
------------------------------------------------------
-23/marzo|
-17/junio| 
-22/junio|
-29/junio|
+|-----------------------------------------------------|
+|23/marzo|
+|17/junio| 
+|22/junio|
+|29/junio|
