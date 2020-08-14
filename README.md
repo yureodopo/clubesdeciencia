@@ -36,10 +36,10 @@ Datos:
 
 | fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23/marzo  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| 17/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| 22/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| 29/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 23/marzo  | 711,233  | 2  | 2  | 0  |
+| 17/junio  | 710,000  | 1,102  | 969 | 133 |
+| 22/junio  | 710,854  | 339  | 297  | 42  |
+| 29/junio  | 710,684  | 551  | 480 | 71 |
 
 
 Datos
