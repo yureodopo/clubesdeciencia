@@ -1,5 +1,11 @@
 # clubesdeciencia
-
+# Contents
+- [The Idea](#the-idea) 
+- [Data](#data) 
+- [Exploration Visualization](#exploration-visualization) 
+- [Finding Patterns](#finding-patterns) 
+- [Future Directions](#future-directions) 
+- [Requirements](#requirements) 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
 Objetivo
@@ -53,3 +59,4 @@ Datos:
 [![ScreenShot](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)]
 
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
+
