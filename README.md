@@ -35,9 +35,8 @@ Datos
 |Población(2015): 8, 855, 000                         |
 |                         CDMX                        |
 |-----------------------------------------------------|
-|--------|Susceptibles|Infectados|Recuperados| Muertes|
+|11111111|Susceptibles|Infectados|Recuperados| Muertes|
 |23/marzo|  8,854,940 |    60    |     0     |    2   |
-|--------|------------|----------|-----------|--------|
 |17/junio|            |          |           |        |
 |22/junio| 8,814,979  |  40,021  |  34,837   |   5,184|
 |29/junio|            |          |           |        |
