@@ -51,3 +51,5 @@ Datos:
 
 [![ScreenShot](https://postmodernjukebox.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-1.18.05-PM-e1513224576689.png)](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
 [![ScreenShot](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)]
+
+![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
