@@ -16,10 +16,10 @@ Metodología
 **Sitio:** Colima y Ciudad de México.
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
-| Primer encabezado | Segundo encabezado |
+| fecha | Susceptibles |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| 23/marzo  | Contenido de la celda  |
+| 17/junio  | Contenido de la celda  |
 
 |--------|------------|----------|-----------|--------|
 Datos
