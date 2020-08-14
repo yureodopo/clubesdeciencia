@@ -15,7 +15,10 @@ Metodología
 **Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad me|Población(2015): 711,235| diante la identificación de variables por medio de Markov para determinar nuestros modelos relacionadas con el tema de investigación.
 **Sitio:** Colima y Ciudad de México.
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
-
+|                         CDMX                        |
+|-----------------------------------------------------|
+|Población(2015): 8, 855, 000                         |
+|-----------------------------------------------------|
 | fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 23/marzo  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
