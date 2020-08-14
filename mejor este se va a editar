@@ -15,22 +15,24 @@ Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y veri
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
 ##Datos
-Población(2015): 8, 855, 000
-|                         CDMX                      |
------------------------------------------------------
-        |Susceptibles|Infectados|Recuperados|Muertes
------------------------------------------------------
-23/marzo|  8,854,940 |    60    |     0     |    2
-17/junio|            |          |           |
-22/junio| 8,814,979  |  40,021  |  34,837   |   5,184
-29/junio|            |          |           |
+||Ciudad de México|
+|:---------:|:------:|
+|Población (2015)|8, 855, 000|
 
-Población(2015): 711,235
-|                         CDMX                      |
------------------------------------------------------
-        |Susceptibles|Infectados|Recuperados|Muertes
------------------------------------------------------
-23/marzo|
-17/junio| 
-22/junio|
-29/junio|
+|| Susceptibles | Infectados  | Recuperados |Muertes|
+|:------------:| :------------: |:---------------:| :-----:|:-----:|
+|23 de Marzo| 8,854,938  | 60 |58 |2|
+|17 de Julio| 8,785,548| 61,351|53,250|8,101|
+|22 de Junio| 8,814,979 | 40,021 | 34,837 |5,184|
+|29 de junio| 8,800,426| 48,014 | 48,014|5,184|
+
+||Colima|
+|:---------:|:------:|
+|Población (2015)|711,235|
+
+|| Susceptibles | Infectados  | Recuperados |Muertes|
+|:------------:| :------------: |:---------------:| :-----:|:-----:|
+|23 de Marzo| 711,233 | 2 |2 |0|
+|17 de Julio|710,000| 1,102|969|133|
+|22 de Junio| 671,214 | 339 | 297 |42|
+|29 de junio| 710,684|551 | 480|71|
