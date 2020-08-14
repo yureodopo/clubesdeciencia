@@ -66,8 +66,7 @@ Datos:
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
 #Equipo
-- [subtitulo1]
-- [subtitulo2]
-- [subtitulo3]
-- [subtitulo4]
-- [subtitulo5]
+- integrante1
+- integrante2
+- integrante3
+- integrante4
