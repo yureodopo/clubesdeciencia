@@ -1,12 +1,14 @@
-# clubesdeciencia
+# Proyecto final pagina web
 # Contents
-- [The Idea](#the-idea) 
-- [Data](#data) 
-- [Exploration Visualization](#exploration-visualization) 
-- [Finding Patterns](#finding-patterns) 
-- [Future Directions](#future-directions) 
-- [Requirements](#requirements) 
+-[subtitulo1](#subtitulo1)
+-[subtitulo2](#subtitulo2)
+-[subtitulo3](#subtitulo3)
+-[subtitulo4](#subtitulo4)
+-[subtitulo5](#subtitulo5)
+
 Comparación de medidas preventivas para *SARS-Cov-2*
+
+#subtitulo1
 
 Objetivo
 
@@ -27,6 +29,8 @@ Metodología
 **Sitio:** Colima y Ciudad de México.
 
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
+
+#subtitulo2
 
 Datos:
 
