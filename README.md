@@ -1,10 +1,11 @@
 # Proyecto final pagina web
+
 # Contents
--[subtitulo1](#subtitulo1)
--[subtitulo2](#subtitulo2)
--[subtitulo3](#subtitulo3)
--[subtitulo4](#subtitulo4)
--[subtitulo5](#subtitulo5)
+- [subtitulo1](#subtitulo1)
+- [subtitulo2](#subtitulo2)
+- [subtitulo3](#subtitulo3)
+- [subtitulo4](#subtitulo4)
+- [subtitulo5](#subtitulo5)
 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
