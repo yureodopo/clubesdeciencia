@@ -9,7 +9,7 @@
 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
-#subtitulo1
+# subtitulo1
 
 Objetivo
 
@@ -31,7 +31,7 @@ Metodología
 
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
-#subtitulo2
+# subtitulo2
 
 Datos:
 
@@ -65,7 +65,7 @@ Datos:
 
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
-#Equipo
+# Equipo
 - integrante1
 - integrante2
 - integrante3
