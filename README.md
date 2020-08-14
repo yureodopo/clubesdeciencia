@@ -20,7 +20,7 @@ Metodología
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
-
+|--------|------------|----------|-----------|--------|
 
 
 
@@ -32,8 +32,9 @@ Metodología
 
 Datos
 
-|Población(2015): 8, 855, 000                         |
+
 |                         CDMX                        |
+|Población(2015): 8, 855, 000                         |
 |-----------------------------------------------------|
 |11111111|Susceptibles|Infectados|Recuperados| Muertes|
 |23/marzo|  8,854,940 |    60    |     0     |    2   |
