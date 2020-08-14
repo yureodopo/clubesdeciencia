@@ -24,9 +24,9 @@ Datos:
 
 | fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23/marzo  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 23/marzo  |     8,854,940     | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
 | 17/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
-| 22/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+| 22/junio  |       8,814,979        |   40,021    | 34,837   |    5,184  |
 | 29/junio  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
 
 |                         COLIMA                      |
@@ -56,15 +56,3 @@ Datos
 | 22/junio | 8,814,979  |  40,021  |  34,837   |   5,184|
 | 29/junio |       1    |     2    |       2   |    2   |
 
-
-
-|                         CDMX                        |
-|-----------------------------------------------------|
-|Población(2015): 711,235                             |
-|-----------------------------------------------------|
-|Susceptibles|         Infectados|Recuperados| Muertes|
-|-----------------------------------------------------|
-|23/marzo|-----------|-----------|-----------|--------|
-|17/junio|-----------|-----------|-----------|--------|
-|22/junio|-----------|-----------|-----------|--------|
-|29/junio|-----------|-----------|-----------|--------|
