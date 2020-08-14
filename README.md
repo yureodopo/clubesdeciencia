@@ -81,6 +81,6 @@ Datos:
 
 <div class="text-purple">
   
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+  This text is purple, <a href="#6f42c1, $bg-purple" class="text-inherit">including the link</a>
   
 </div>
