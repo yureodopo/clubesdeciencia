@@ -40,7 +40,7 @@ De acuerdo a la Ley General de Salud, se entiende por cuarentena “la limitaci�
 
 La Secretaría de Salud recomienda suspender temporalmente a partir del lunes 23 de marzo todas las actividades no esenciales de los sectores público, social y privado.
 
-Cabe recordar que a partir del próximo lunes y hasta el 20 de abril, todos los planteles de educación básica, media superior y superior a nivel nacional suspenderán clases para prevenir
+Cabe recordar que a partir del próximo lunes y hasta el 20 de abril, todos los planteles de educación básica, media superior y superior a nivel nacional suspenderán clases para prevenir.
 
 ## Medidas de protección básicas contra el nuevo coronavirus
 -Lávese las manos frecuentemente
@@ -83,11 +83,11 @@ Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y veri
 
 *Metodología* 
 
-**Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de cadenas Markov para determinar nuestros modelos relacionadas con el tema de investigación.
+**Diseño:** Es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de cadenas Markov para determinar nuestros modelos relacionadas con el tema de investigación.
 
 **Sitio:** Colima y Ciudad de México.
 
-**Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
+**Periodo:** Comprendido del 23 de marzo,17 de junio y 29 de junio.
 
 
 # Datos
@@ -106,16 +106,16 @@ colima_febrero:
 
 CDMX_cuarentena:
 
-colima_cuarentena:
+Colima_cuarentena:
 
-colima_cuarentena1:
+Colima_cuarentena1:
 
 CDMX_semaforo:
 
-colima semaforo:
+Colima semaforo:
 
 
-colima semaforo:
+Colima semaforo:
 
 
 # Conclusiones
