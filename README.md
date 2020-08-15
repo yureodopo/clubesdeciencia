@@ -74,9 +74,25 @@ Datos:
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
 # Equipo
-- Félix Emiliano Hernández Pérez
-- Abigail Sánchez González 
-- Jimena Martínez Ramírez
-- Kouthumi Mondragón Figueroa
+## - Félix Emiliano Hernández Pérez
+Preparatoria
 
+Hola a todos me llamo Félix Hernández, estoy por comenzar la carrera de Ingeniería Química Metalúrgica en la UNAM, estoy muy interesado en la parte química y biologia aunque también me gusta probar cosas nuevas como la programación y tecnología, y la situación actual puede ser de gran ayuda para todos para mejorar diferentes aspectos por lo que me gustaría formar parte de como ayudar a las personas, es mi primer Challenge! Gusto en conocerlos!
 
+## - Abigail Sánchez González 
+Preparatoria
+
+¡Hola a todos!
+Mi nombre es Abigail Sánchez y  recientemente concluí la preparatoria. Estoy interesada en temas relacionados con las Ciencias Espaciales y la Inteligencia Artificial , pero  soy bastante curiosa y me gusta aprender cosas nuevas todo el tiempo. Participar en el  challenge me pareció una excelente idea por el hecho de aplicar la  programación a problemas actuales.:sonriendo:
+Además me  gusta mucho conocer a personas apasionadas de la ciencia y será un placer trabajar con ustedes. :corazón:
+
+## - Jimena Martínez Ramírez
+Preparatoria
+
+Hola soy Jimena estudiante de preparatoria me gusta programar. Tengo conocimientos básicos en Python
+
+## - Kouthumi Mondragón Figueroa
+
+Preparatoria 3er año
+
+hola soy kouthumi mondragón figueroa, soy estudiante de preparatoria 5to semestre estoy en el componente de salud. En programación solo tengo lo básico del curso de python aunque me costo mucho terminarlos pero si es necesario seguire aprendiendo mas cosas para poder programar sin dificultad, me gusta mucho biología y en este curso espero poder obtener conocimientos que me ayuden para poder decidir mi carrera, tambien espero conocer a nuevas personas.
