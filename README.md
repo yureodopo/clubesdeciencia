@@ -11,7 +11,7 @@
 
 # Introducción
 
-<span style="color:red;">La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera podemos tener un mejor manejo de una pandemia, así como poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia. </span>
+La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados, en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera se puede tener un mejor manejo de la pandemia, así como de poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje matemático  mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR en el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.
 
 # marco_teorico
 ## Semáforo
@@ -32,7 +32,7 @@ Verde
 Se permiten todas las actividades, incluidas las escolares.
 
 ## Jornada Nacional de Sana Distancia
-Debido a la propagación del nuevo coronavirus en México, se han implementado medidas preventivas para evitar el aumento de contagios en el país, una de ellas es la cuarentena a través de la Jornada Nacional de Sana Distancia implementada por el Gobierno Federal.
+Debido a la propagación del nuevo coronavirus en México, se han implementado medidas preventivas para evitar el aumento de contagios en el país, una de ellas es la cuarentena a través del programa denominado como Jornada Nacional de Sana Distancia implementada por el Gobierno Federal.
 
 De acuerdo a la Ley General de Salud, se entiende por cuarentena “la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio”.
 
@@ -119,14 +119,13 @@ Metodología
 
 # Video
 
-[<img src="https://img.youtube.com/vi/v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4/maxresdefault.jpg" width="50" height="">](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
+[![ScreenShot](https://postmodernjukebox.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-1.18.05-PM-e1513224576689.png)](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
 
-
-![ScreenShot](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)
+[![ScreenShot](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)]
 
 <img src="https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png" width="600" height="600">
 
-<img src="https://lh3.googleusercontent.com/XvCr_V5ycK8AS_QEY46O97QWt76uwLTeozrwPcxP30LSgVSUgAkGmPuF9W1FZlC0QQGR6U99Bd_muv2aeNWDBRYW0vUfX25K5HGNWhCj02afytBciURnWYIhNatPmBZvGCogZZ4ePUCyti3usUEwLYcAIT-grDG-3YphvicxBQqaPeCHAFn7JC-tV5bQiPlLa_Zzmp50-gcPP3f86TOdFOpEFBVRa6OTQ_oItqbQZnP2CIed6qdMpgJZ0Mhhfb2w9koICy_lJ5bHlrZYyhEXXtst8eV_kK2KesL2mZLHV3UwdgDkl_fTjolzvQZwM8U9BFkREgmxRL-uG-Y5lvqU8_-VQ8Y2EX28muNjBOB0HwtYV_sBfBj_Einx6d1wdKJHX0MJa7WnSiCGxn4HUstrMWIT99Q5GjAK-I7VbwQcPpQhBKqkSKM6yvOkPhWxjQNjneo5rftmIV_v6YqMzY9CB-RH57EPpfeyMp--3wtqEEXtviR2SWf5GGnlNgFIcqhCJ9DquV1h-hrUhcdFCILB1frf0dUUVvBJpVL8CZdas0pDFRZ5UBe6sFus0eCCZ4zxX2BN97r5_9reQu77Ql3J19aVEOA3JUR9LLbvxjHp-rLd1lGcEbGaTA0LZo9VayKZoKDxBxxzMbIn3EbOfF7XxqLBGm7awWZjJ2tGHZ7M10S41YoH_wyx_WdSFSPt=s893-no?authuser=0" width="400" height="400">
+![Perrito](https://lh3.googleusercontent.com/XvCr_V5ycK8AS_QEY46O97QWt76uwLTeozrwPcxP30LSgVSUgAkGmPuF9W1FZlC0QQGR6U99Bd_muv2aeNWDBRYW0vUfX25K5HGNWhCj02afytBciURnWYIhNatPmBZvGCogZZ4ePUCyti3usUEwLYcAIT-grDG-3YphvicxBQqaPeCHAFn7JC-tV5bQiPlLa_Zzmp50-gcPP3f86TOdFOpEFBVRa6OTQ_oItqbQZnP2CIed6qdMpgJZ0Mhhfb2w9koICy_lJ5bHlrZYyhEXXtst8eV_kK2KesL2mZLHV3UwdgDkl_fTjolzvQZwM8U9BFkREgmxRL-uG-Y5lvqU8_-VQ8Y2EX28muNjBOB0HwtYV_sBfBj_Einx6d1wdKJHX0MJa7WnSiCGxn4HUstrMWIT99Q5GjAK-I7VbwQcPpQhBKqkSKM6yvOkPhWxjQNjneo5rftmIV_v6YqMzY9CB-RH57EPpfeyMp--3wtqEEXtviR2SWf5GGnlNgFIcqhCJ9DquV1h-hrUhcdFCILB1frf0dUUVvBJpVL8CZdas0pDFRZ5UBe6sFus0eCCZ4zxX2BN97r5_9reQu77Ql3J19aVEOA3JUR9LLbvxjHp-rLd1lGcEbGaTA0LZo9VayKZoKDxBxxzMbIn3EbOfF7XxqLBGm7awWZjJ2tGHZ7M10S41YoH_wyx_WdSFSPt=s893-no?authuser=0)
 
 # Equipo
 ## - Félix Emiliano Hernández Pérez
