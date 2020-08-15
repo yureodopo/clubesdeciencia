@@ -125,7 +125,7 @@ Metodología
 
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
-(https://photos.google.com/search/_tra_/photo/AF1QipOpZMBAUoPdR2lvtSKgFoCAzSgUd0sHG_9dx837)
+![kouthumi](https://photos.google.com/search/_tra_/photo/AF1QipOpZMBAUoPdR2lvtSKgFoCAzSgUd0sHG_9dx837)
 
 # Equipo
 ## - Félix Emiliano Hernández Pérez
