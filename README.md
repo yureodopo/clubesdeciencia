@@ -120,6 +120,11 @@ colima semaforo:
 
 # Conclusiones
 
+En la CDMX del periodo de 27 de febrero a 22 de marzo(inicio de la pandemia-inicio de la cuarentena) era muy poco probable que te infectaras pero habia una gran probabilidad de que si te infectabas te recuperaras del 0.0029, sin embargo como no hubo medidas preventivas se presento una gran cantidad e casos en el siguiente periodo 23 de marzo al 31 de mayo, donde se dio un aumento de probabilidad del 0.0009 de que te infectaras, pero con mayor probabilidad de que pudieras recuperarte del 0.9142, lo que provoco que en el siguiente periodo 1 de junio 28 de junio habia una probabilidad del 0.7047 de no infectarse y 0.8622 de recuperarse.
+
+A diferencia de COLIMA que no es una gran urbe y las se tomaron medidas mas eficientes tomando las estadisticas en la CDMX aunque debido a su poca poblacion tambien era mas dificil su propagacion durante el 1er periodo hubo una probabilidad de permanecer sano del 0.1199. El segundo periodo reflejo los efectos de contener el virus y reducirlos a casos regionales con una probabilidad de infeccion de 0.0001 con la ventaja de recuperacion del 0.9097. Por ultimo en un cambio de estadisticas solo subio un 0.0004 la probabilidad de infectarse a diferencia de CDMX que subio casi 30% aunque con un descenso de 0.8524.
+
+En la hipotesis planteamos que los estados no proporcionarion medidas concretas para la disminucion de transmision del virus, hecho que queda confirmado en la CDMX pero que da un gran contraste con el estado de COLIMA, parte de esta abismal diferencia es parte del hecho de que CDMX tuvo el primer caso de toda la republica mexicana y que COLIMA se mantuvo intacta hasta el 20 de marzo del 2020 tiempo en el que la secretaria de salud ya habia dictado medidas preventivas, debido a esto tomaron medidas correctas a tiempo con un confirmación a la par que la CDMX. 
 
 # Video
 
