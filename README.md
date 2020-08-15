@@ -119,9 +119,8 @@ Metodología
 
 # Video
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4">
-</iframe>
+[<img src="https://img.youtube.com/vi/v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4/maxresdefault.jpg" width="50" height="">](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
+
 
 ![ScreenShot](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)
 
