@@ -81,7 +81,7 @@ Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y veri
 
 Metodología 
 
-**Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de Markov para determinar nuestros modelos relacionadas con el tema de investigación.
+**Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de cadenas Markov para determinar nuestros modelos relacionadas con el tema de investigación.
 
 **Sitio:** Colima y Ciudad de México.
 
