@@ -1,9 +1,9 @@
 # Proyecto final página web
 
-# Subtitulos
+# Subtítulos
 - [Introducción](#Introducción)
-- [marco_teorico](#marco_teorico)
-- [subtitulo2](#subtitulo2)
+- [marco_teórico](#marco_teorico)
+- [subtítulo2](#subtítulo2)
 - [datos](#datos)
 - [Conclusión](#Conclusión)
 - [Video](#Video)
@@ -14,7 +14,7 @@
 La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera podemos tener un mejor manejo de una pandemia, así como poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.
 
 # marco_teorico
-## Semaforo
+## Semáforo
 El Semáforo de riesgo epidemiológico para transitar hacia una nueva normalidad, es un sistema de monitoreo para la regulación del uso del espacio público de acuerdo con el riesgo de contagio de COVID-19.
 
 Este semáforo será estatal y está compuesto por cuatro colores:
@@ -63,7 +63,7 @@ Las manos tocan muchas superficies que pueden estar contaminadas con el virus. S
 
 Manténgase informado sobre las últimas novedades en relación con la COVID-19. Siga los consejos de su dispensador de atención de salud, de las autoridades sanitarias pertinentes a nivel nacional y local o de su empleador sobre la forma de protegerse a sí mismo y a los demás ante la COVID-19. Las autoridades nacionales y locales dispondrán de la información más actualizada acerca de si la COVID-19 se está propagando en su zona. Son los interlocutores más indicados para dar consejos sobre las medidas que la población de su zona debe adoptar para protegerse. 
 
-# puntos
+# Puntos
 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
@@ -87,7 +87,7 @@ Metodología
 
 **Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
 
-# subtitulo2
+# subtítulo2
 
 # datos
 
@@ -96,7 +96,7 @@ Metodología
 |Población(2015): 8, 855, 000                         |
 
 
-| fecha | Susceptibles | Infectados | Recuperados | Muertes |
+| Fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 23/marzo  |     8,854,938     | 60  | 58  | 2 |
 | 17/junio  | 8,811,087  | 38,871 | 33,829  | 5,042  |
@@ -108,7 +108,7 @@ Metodología
 |Población(2015): 711,235                             |
 
 
-| fecha | Susceptibles | Infectados | Recuperados | Muertes |
+| Fecha | Susceptibles | Infectados | Recuperados | Muertes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 23/marzo  | 711,233  | 2  | 2  | 0  |
 | 17/junio  | 710,869  | 324  | 282 | 42 |
