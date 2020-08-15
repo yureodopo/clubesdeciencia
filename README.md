@@ -92,6 +92,11 @@ Metodología
 
 # Datos
 
+collab markov chains:
+(https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG?usp=sharing)
+
+
+
 |                         CDMX                        |
 |-----------------------------------------------------|
 |Población(2015): 8, 855, 000                         |
