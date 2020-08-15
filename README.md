@@ -2,7 +2,7 @@
 
 # Subtitulos
 - [Introducción](#Introducción)
-- [subtitulo1](#subtitulo1)
+- [marco_teorico](#marco_teorico)
 - [subtitulo2](#subtitulo2)
 - [datos](#datos)
 - [Conclusión](#Conclusión)
@@ -11,7 +11,57 @@
 
 # Introducción
 
-# subtitulo1
+# marco_teorico
+## Semaforo
+El Semáforo de riesgo epidemiológico para transitar hacia una nueva normalidad, es un sistema de monitoreo para la regulación del uso del espacio público de acuerdo con el riesgo de contagio de COVID-19.
+
+Este semáforo será estatal y está compuesto por cuatro colores:
+
+Rojo
+Se permitirán únicamente las actividades económicas esenciales, asimismo se permitirá también que las personas puedan salir a caminar alrededor de sus domicilios durante el día.
+
+Naranja
+Además de las actividades económicas esenciales, se permitirá que las empresas de las actividades económicas no esenciales trabajen con el 30% del personal para su funcionamiento, siempre tomando en cuenta las medidas de cuidado máximo para las personas con mayor riesgo de presentar un cuadro grave de COVID-19, se abrirán los espacios públicos abiertos con un aforo (cantidad de personas) reducido.
+
+Amarillo
+Todas las actividades laborales están permitidas, cuidando a las personas con mayor riesgo de presentar un cuadro grave de COVID-19. El espacio público abierto se abre de forma regular, y los espacios públicos cerrados se pueden abrir con aforo reducido. Como en otros colores del semáforo, estas actividades deben realizarse con medidas básicas de prevención y máximo cuidado a las personas con mayor riesgo de presentar un cuadro grave de COVID-19.
+
+Verde
+Se permiten todas las actividades, incluidas las escolares.
+
+## Cuarentena
+Debido a la propagación del nuevo coronavirus en México, se han implementado medidas preventivas para evitar el aumento de contagios en el país, una de ellas es la cuarentena a través de la Jornada Nacional de Sana Distancia implementada por el Gobierno Federal.
+
+De acuerdo a la Ley General de Salud, se entiende por cuarentena “la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio”.
+
+La Secretaría de Salud recomienda suspender temporalmente a partir del lunes 23 de marzo todas las actividades no esenciales de los sectores público, social y privado.
+
+Cabe recordar que a partir del próximo lunes y hasta el 20 de abril, todos los planteles de educación básica, media superior y superior a nivel nacional suspenderán clases para prevenir
+
+## Medidas de protección básicas contra el nuevo coronavirus
+
+
+
+-Lávese las manos frecuentemente
+Lávese las manos con frecuencia con un desinfectante de manos a base de alcohol o con agua y jabón. Lavarse las manos con un desinfectante a base de alcohol o con agua y jabón mata el virus si este está en sus manos.
+
+-Adopte medidas de higiene respiratoria
+Al toser o estornudar, cúbrase la boca y la nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese las manos con un desinfectante de manos a base de alcohol, o con agua y jabón. Al cubrir la boca y la nariz durante la tos o el estornudo se evita la propagación de gérmenes y virus. Si usted estornuda o tose cubriéndose con las manos puede contaminar los objetos o las personas a los que toque.
+
+-Mantenga el distanciamiento social
+Mantenga al menos 1 metro (3 pies) de distancia entre usted y las demás personas, particularmente aquellas que tosan, estornuden y tengan fiebre. Cuando alguien con una enfermedad respiratoria, como la infección por el 2019-nCoV, tose o estornuda, proyecta pequeñas gotículas que contienen el virus. Si está demasiado cerca, puede inhalar el virus.
+
+-Evite tocarse los ojos, la nariz y la boca
+Las manos tocan muchas superficies que pueden estar contaminadas con el virus. Si se toca los ojos, la nariz o la boca con las manos contaminadas, puedes transferir el virus de la superficie a si mismo.
+
+-Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo
+ Siempre que tenga fiebre, tos y dificultad para respirar, es importante que busque atención médica de inmediato, ya que dichos síntomas pueden deberse a una infección respiratoria o a otra afección grave. Los síntomas respiratorios con fiebre pueden tener diversas causas, y dependiendo de sus antecedentes de viajes y circunstancias personales, el 2019-nCoV podría ser una de ellas.
+
+-Manténgase informado y siga las recomendaciones de los profesionales sanitarios
+
+Manténgase informado sobre las últimas novedades en relación con la COVID-19. Siga los consejos de su dispensador de atención de salud, de las autoridades sanitarias pertinentes a nivel nacional y local o de su empleador sobre la forma de protegerse a sí mismo y a los demás ante la COVID-19. Las autoridades nacionales y locales dispondrán de la información más actualizada acerca de si la COVID-19 se está propagando en su zona. Son los interlocutores más indicados para dar consejos sobre las medidas que la población de su zona debe adoptar para protegerse. 
+
+# puntos
 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
