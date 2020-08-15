@@ -2,9 +2,9 @@
 
 # Subtítulos
 - [Introducción](#Introducción)
-- [marco_teórico](#marco_teorico)
+- [marco_teórico](#marco_teórico)
 - [subtítulo2](#subtítulo2)
-- [datos](#datos)
+- [Datos](#Datos)
 - [Conclusión](#Conclusión)
 - [Video](#Video)
 - [Equipo](#Equipo)
@@ -89,7 +89,7 @@ Metodología
 
 # subtítulo2
 
-# datos
+# Datos
 
 |                         CDMX                        |
 |-----------------------------------------------------|
