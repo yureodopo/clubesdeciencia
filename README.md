@@ -4,7 +4,7 @@
 - [Introducción](#Introducción)
 - [subtitulo1](#subtitulo1)
 - [subtitulo2](#subtitulo2)
-- [subtitulo3](#subtitulo3)
+- [datos](#datos)
 - [Conclusión](#Conclusión)
 - [Video](#Video)
 - [Equipo](#Equipo)
@@ -37,7 +37,7 @@ Metodología
 
 # subtitulo2
 
-Datos:
+# datos
 
 |                         CDMX                        |
 |-----------------------------------------------------|
