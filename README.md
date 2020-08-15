@@ -11,7 +11,7 @@
 <span style="color:red"></span>
 El *Covid-19* es una enfermedad infecciosa causada por el *SARS-Cov-2*, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera podemos tener un mejor manejo de una pandemia, así como poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.
 
-# Marco teorico
+# Marco Teórico
 ## Semáforo
 El Semáforo de riesgo epidemiológico para transitar hacia una nueva normalidad, es un sistema de monitoreo para la regulación del uso del espacio público de acuerdo con el riesgo de contagio de COVID-19.
 
@@ -96,7 +96,6 @@ Los datos recabados estan en el siguiente URL: https://docs.google.com/spreadshe
 
 Las graficas obtenidas con los datos estan en el siguiente URL: https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG
 # imagenes
-<img src="" width="400" height="500">
 
 <img src="https://lh3.googleusercontent.com/edbRP93JvZ6-E6WHRxmasYnXxLFkjQJCxPklXzN0xLzVBhxfEvk0cjZuaDmyuGkpNCVBZgYPRI1E0MppCvGTx8h4LDCizDoTN0YZHdYeLFX-7fZOcmqAxnApaOFPXbAHLfyflgHu-QXi2nHDwYm7qvdVX-XxwHCD7SZfRtPMBChVQLvOcGv8rf87Gk7SJgFkzkSfcjtmBSX8OHoOgGqqyHD598tJbDtGcJljg6hxDr9fXPyWiI2DaNPAubQS2NmMshDLclEAiAg6y_5EckFO_K8I--8MVAjWHPoKJOsC4RRCI11RR03AdWMWbysMckrlNnRC1bt3I6nWAMe2KpDjj6Fj_elFCLwU_f45PvVCl6c-7lj2kRTKzSyMQYCkGmDu8cA4LpWiUe5eaaXzPF9LOc6ahTPtWeEDx_7kPlEf4211j2NL3S3eA6aWtiZJhiIj_uKp9TGCItce59qXJUawxtSmacqE5L36UrvSZrJWlMxWCQp964GsorFUFayTDiDvqchzgRHfFpRoDUvY3_51Z8HKyjLuFPiR4CdyJeeGxm2n1on7-ECwqgQdvfWyX2c4YIqpKUCQi5AxwHMft3EoXQOy12PesMZe97MllJR0LnkJFe5laq7OmghIj9wL0CQdqfLOX50ynTj3XSaaJI0QTCLdr-MFxMN42yK-lS5AvGGMHvkbrSRJoSVS-U8f=w432-h288-no?authuser=0" width="400" height="500">
 
