@@ -1,11 +1,11 @@
 # Proyecto final pagina web
 
 # Subtitulos
-- [introduccion](#introduccion)
+- [Introducción](#Introducción)
 - [subtitulo1](#subtitulo1)
 - [subtitulo2](#subtitulo2)
 - [subtitulo3](#subtitulo3)
-- [conclusion](#conclusion)
+- [Conclusión](#Conclusión)
 - [Video](#Video)
 - [Equipo](#Equipo)
 
