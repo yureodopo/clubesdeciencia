@@ -1,4 +1,4 @@
-# Proyecto final pagina web
+# Proyecto final página web
 
 # Subtitulos
 - [Introducción](#Introducción)
@@ -31,7 +31,7 @@ Todas las actividades laborales están permitidas, cuidando a las personas con m
 Verde
 Se permiten todas las actividades, incluidas las escolares.
 
-## Cuarentena
+## Jornada Nacional de Sana Distancia
 Debido a la propagación del nuevo coronavirus en México, se han implementado medidas preventivas para evitar el aumento de contagios en el país, una de ellas es la cuarentena a través de la Jornada Nacional de Sana Distancia implementada por el Gobierno Federal.
 
 De acuerdo a la Ley General de Salud, se entiende por cuarentena “la limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio”.
