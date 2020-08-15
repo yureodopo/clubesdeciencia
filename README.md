@@ -95,7 +95,8 @@ Metodología
 collab markov chains:
 (https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG?usp=sharing)
 
-
+excel dia por dia covid-19:
+(https://docs.google.com/spreadsheets/d/16THYBJuzGIXUjoXdccNhuNpeCLrTRWs0Ocy9T_Mu9iA/edit?usp=sharing)
 
 |                         CDMX                        |
 |-----------------------------------------------------|
