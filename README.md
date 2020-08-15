@@ -143,8 +143,7 @@ Además me  gusta mucho conocer a personas apasionadas de la ciencia y será un 
 ## - Jimena Martínez Ramírez
 Preparatoria
 
-Hola soy Jimena estudiante de preparatoria me gusta programar. Tengo conocimientos básicos en Python
-
+Hola soy Jimena estudiante de preparatoria me gusta programar. Tengo conocimientos básicos en Python. me gusta la quìmica y biologìa.
 ## - Kouthumi Mondragón Figueroa
 
 Preparatoria 3er año
