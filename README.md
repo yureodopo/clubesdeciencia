@@ -2,8 +2,8 @@
 
 # Subtítulos
 - [Introducción](#Introducción)
-- [marco_teórico](#marco_teórico)
-- [subtítulo2](#subtítulo2)
+- [Marco Teórico](#marco_Teórico)
+- [Subtítulo2](#Subtítulo2)
 - [Datos](#Datos)
 - [Conclusión](#Conclusión)
 - [Video](#Video)
