@@ -9,7 +9,7 @@
 - [Video](#Video)
 - [Equipo](#Equipo)
 
-# introduccion
+# Introducción
 
 # subtitulo1
 
@@ -63,7 +63,7 @@ Datos:
 | 22/junio  | 710,854  | 339  | 297  | 42  |
 | 29/junio  | 710,684  | 551  | 480 | 71 |
 
-# conclusion
+# Conclusión
 
 # Video
 
@@ -74,9 +74,9 @@ Datos:
 ![stack Overflow](https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png)
 
 # Equipo
-- integrante1
-- integrante2
-- integrante3
-- integrante4
+- Félix Emiliano Hernández Pérez
+- Abigail Sánchez González 
+- Jimena Martínez Ramírez
+- Kouthumi Mondragón Figueroa
 
 
