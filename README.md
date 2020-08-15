@@ -10,8 +10,7 @@
 - [Equipo](#Equipo)
 
 # Introducción
-<span style="color:red">
-La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados, en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera se puede tener un mejor manejo de la pandemia, así como de poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje matemático  mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR en el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.</span>
+La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados, en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera se puede tener un mejor manejo de la pandemia, así como de poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje matemático  mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR en el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.
 
 # marco_teorico
 ## Semáforo
@@ -19,8 +18,7 @@ El Semáforo de riesgo epidemiológico para transitar hacia una nueva normalidad
 
 Este semáforo será estatal y está compuesto por cuatro colores:
 
-Rojo
-Se permitirán únicamente las actividades económicas esenciales, asimismo se permitirá también que las personas puedan salir a caminar alrededor de sus domicilios durante el día.
+<span style="color:red"> Rojo: Se permitirán únicamente las actividades económicas esenciales, asimismo se permitirá también que las personas puedan salir a caminar alrededor de sus domicilios durante el día.</span>
 
 Naranja
 Además de las actividades económicas esenciales, se permitirá que las empresas de las actividades económicas no esenciales trabajen con el 30% del personal para su funcionamiento, siempre tomando en cuenta las medidas de cuidado máximo para las personas con mayor riesgo de presentar un cuadro grave de COVID-19, se abrirán los espacios públicos abiertos con un aforo (cantidad de personas) reducido.
