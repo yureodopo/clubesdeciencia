@@ -1,71 +1,48 @@
-# Proyecto final pagina web
+# Comparación de medidas preventivas para *SARS-Cov-2*
 
 # Subtitulos
 - [Introducción](#Introducción)
-- [subtitulo1](#subtitulo1)
-- [subtitulo2](#subtitulo2)
-- [datos](#datos)
+- [Datos](#Datos)
+- [Calculos](#Calculos)
 - [Conclusión](#Conclusión)
 - [Video](#Video)
 - [Equipo](#Equipo)
 
-# Introducción
 
-# subtitulo1
+###### Comparación de medidas preventivas para *SARS-Cov-2*
+# *Introducción*
+La Covid-19 es una enfermedad infecciosa causada por el coronavirus, esta enfermedad se ha extendido alrededor del mundo y ya ha cobrado la vida de miles de personas, sin duda supuso un gran reto en China y posteriormente alrededor del mundo desde que se tuvo noticia de los primeros casos confirmados en Wuhan capital de Hubei en China. El modelaje matemático puede ser de gran ayuda ya que de esta manera podemos tener un mejor manejo de una pandemia, así como poder determinar la eficacia de ciertas medidas impuestas. Lo que aquí se muestra es el modelaje mediante cadenas de Markov de las diferentes etapas en la que se ha llevado a cabo la pandemia en México, se utilizó el modelo SIR el cual los estados coinciden con la transición por la que una persona puede pasar en el desarrollo de la pandemia.
 
-Comparación de medidas preventivas para *SARS-Cov-2*
-
-Objetivo
+*Objetivo*
 
 Determinar la incidencia de los casos de *SARS-Cov-2* en dos estados (Colima y Ciudad de México[CDMX]) para comparar la eficacia de medidas preventivas tomadas por el gobierno en respectivos estados.
 
-Hipótesis
+*Hipótesis*
 
 Las medidas preventivas que se tomarán en cada uno de los estados no serán suficientes para disminuir el número de casos infectados por *SARS-Cov-2* en la CDMX y Colima.
 
-Justificación
+*Justificación*
 
 Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y verificar su utilidad para disminuir la incidencia de casos infectados, así como el número de muertes, estableciendo medidas específicas de precaución en cada estado referente a sus necesidades.
 
-Metodología 
+*Metodología* 
 
 **Diseño:** es un estudio transversal retrospectivo para determinar la comparación de medidas preventivas en dos estados para *SARS-Cov-2* la información será recopilada de la página de estadística de la secretaría de salubridad mediante la identificación de variables por medio de Markov para determinar nuestros modelos relacionadas con el tema de investigación.
-
 **Sitio:** Colima y Ciudad de México.
-
-**Periodo:** comprendido del 23 de marzo,17 de junio y 29 de junio.
-
-# subtitulo2
-
-# datos
-
-|                         CDMX                        |
-|-----------------------------------------------------|
-|Población(2015): 8, 855, 000                         |
+**Periodo:** comprendido del 23 de marzo, 1ero de Junio y 28 de Junio
 
 
-| fecha | Susceptibles | Infectados | Recuperados | Muertes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23/marzo  |     8,854,938     | 60  | 58  | 2 |
-| 17/junio  | 8,811,087  | 38,871 | 33,829  | 5,042  |
-| 22/junio  |       8,809,795        |   40,021    | 34,837   |    5,184  |
-| 29/junio  | 8,800,426  | 48,014  | 41,454  | 6,560 |
+# Datos
+Los datos recabados fueron del 23 de marzo, 1ero de Junio y 28 de Junio en el siguiente URL se pueden consultar https://docs.google.com/spreadsheets/d/16THYBJuzGIXUjoXdccNhuNpeCLrTRWs0Ocy9T_Mu9iA/edit?ts=5f373ddc#gid=0
 
-|                         COLIMA                      |
-|-----------------------------------------------------|
-|Población(2015): 711,235                             |
+# Calculos
 
-
-| fecha | Susceptibles | Infectados | Recuperados | Muertes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 23/marzo  | 711,233  | 2  | 2  | 0  |
-| 17/junio  | 710,869  | 324  | 282 | 42 |
-| 22/junio  | 710,854  | 339  | 297  | 42  |
-| 29/junio  | 710,684  | 551  | 480 | 71 |
 
 # Conclusión
 
+
 # Video
+Nuestro video final se encuentra en el siguiente link:
 
 [![ScreenShot](https://postmodernjukebox.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-1.18.05-PM-e1513224576689.png)](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
 
