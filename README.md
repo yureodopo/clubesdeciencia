@@ -1,6 +1,6 @@
 # Proyecto final pagina web
 
-# Subtitulos
+#Subtitulos
 - [Introducción](#Introducción)
 - [subtitulo1](#subtitulo1)
 - [subtitulo2](#subtitulo2)
@@ -11,7 +11,7 @@
 
 # Introducción
 
-# subtitulo1
+#subtitulo1
 
 Comparación de medidas preventivas para *SARS-Cov-2*
 
@@ -37,7 +37,7 @@ Metodología
 
 # subtitulo2
 
-# datos
+#datos
 
 |                         CDMX                        |
 |-----------------------------------------------------|
@@ -65,7 +65,7 @@ Metodología
 
 # Conclusión
 
-# Video
+#Video
 
 [![ScreenShot](https://postmodernjukebox.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-1.18.05-PM-e1513224576689.png)](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
 
