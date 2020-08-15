@@ -134,7 +134,7 @@ colima semaforo:
 
 # Video
 
-[![ScreenShot](https://postmodernjukebox.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-1.18.05-PM-e1513224576689.png)](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
+[<img src="https://img.youtube.com/vi/FyFwko9O2UE/maxresdefault.jpg" width="400" height="200">](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
 
 <img src="https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png" width="200" height="150">
 
