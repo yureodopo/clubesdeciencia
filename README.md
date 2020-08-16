@@ -113,28 +113,33 @@ CDMX FEBRERO:
 CDMX CUARENTENA:
 
 <img src="https://lh3.googleusercontent.com/d_o8W0iLYtNYPJayMRXo9VMczJX_XGTClXhgSDWx79_oypmBQSrr-ZYD8YkkfB3MA_WucS4j6AOFwgNTD8LGJmHV6CNYnZKykwQMnKp8x-0tYDxKXyuO12qrC57tkLi7cSwg7jVgYu-ug4in9_6YQCiFIqnrNa4iUiolsjhLAAbk3_5pdLe9_Xw3pZc7-sQULqjZUI1hYO_PVT-uOpg2XGGwtRQwyM2MArrITDDNubufRfa-6p-ezxUIRJWzIOkPQ3j1vVS3o2Tgb7IXOshY6bYYmBvfhrb2-GtRylhiZWZXGPE7JQAsj9crp2CUiSIl0_oqK_isTMC-FRm-H6lKknkxRJAJ_70JuNaWwOEx2gM7fbAtv9nHAWByJL1gvzkdcoYEIAR9uNwa1RZqaOyFTTBSWcP6JrEslJcHV9ADCr93ObkqnSLKNR75XhexIYKyY-WMoFyx_4yOMYJA6onzn4XLmjifxMMswtbyzxzq-FmYV_StbZsYZ_JF35t1CSFDbf6oEBOsG9dtNyka2rv_mC35iyT-q8w-AR1W9R7FP6hJKY6HFH3jyzkk52Ci0EHVFcfgzD7TQWPxFDyLm9p_9Dh4l3ZmGFQxnn6acqyYZekusMrnnudXuJk7VVW-QhSSiUcjyWRHQakxcazcgOSuGhygcS5oQ7pdpgx5OqfSN5owXDQEt4IXT6UZF2bd=w372-h248-no?authuser=0" width="301" height="200">
-            Las probabilidades del número de personas susceptibles disminuye(azul) , las probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de  personas recuperadas aumenta( verde)
+           
+  Las probabilidades del número de personas susceptibles disminuye(azul) , las probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de  personas recuperadas aumenta( verde)
 
 CDMX SEMÁFORO:
 
 <img src="https://lh3.googleusercontent.com/ag569UVGy7FYnSFFEhi0vm7iNLZRcT-ijgq568szfZ-JVCAhd8quK6ROwFTB116X8K-dIKxuetCDT1UvQqlaxLhiMFAz58Zkt5bVxNoqFqGw0uS744w2qm5zfHUx6DuMLa1ub0qOrPYxRYlGxUnyIZbQ-EuXzTXASYcrxGTIX4jN5FWUSMPJO9mFw985Qnhr2MxZ8X5n7pyA5LyV-1Lz7At2rB4jQYiRywPp4Gs6YkObyFLdjqEZQnEblwPdsc5G4jHCjGLqyh-p3pBJldQQu62ZfqGuW6D795c9GBXCBfg0bVy_QXhiwBaRGEpppUXL7D5xxLLrfRFFzLNFcASPwL4Yl-4qHdieMppFKVzOYbcXZTvBEZoaJUMqxe5QhKFgfbtFPqzmdzgU0m7jBbHP9RxT1BvrmFd8_ck3_IxhMBVO263tTAtcp1SFl5-xR4nm0uLahXENGdGkTJbgYhTNifcVWTUuOL-Qd6II7bBYaalfu3Lo7_MZyTo2CI5go2B1YC8zDv85fHqCJnua6SC3ky1bJ1kLqDa2QtTofIdJshlJdRHyrUsWmSY3zYcTwkqxj5b0QGDsQacrrfjjqfultibwgoxsH66KUQ_kFskl5ueVAxRvndYZHt3cjAPKebIrfk9YJU_QvCui5_ORvj0xZlW0ABV_qo-Kp2Qv1a6T-mXJNYvcs2Y4KxJ1NcB3=w372-h248-no?authuser=0" width="301" height="200">
-            Las probabilidades del número de personas susceptibles disminuye(naranja) , probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de personas recuperadas aumenta (verde)
+           
+  Las probabilidades del número de personas susceptibles disminuye(naranja) , probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de personas recuperadas aumenta (verde)
 
 COLIMA FEBRERO:
 
 <img src="https://lh3.googleusercontent.com/eHrkj1rfInhhkXfFTsRu-fSB1zQVOK04P-uCfF6Gw9Vi61vewBqYn_7yN-pNAez9qMcC9OcbG0mIq-RpIg-RXYxFbHZ_LXx3qFHpsjbZ9T-am-jpUoB77AG6DqFxS26j9pymtbU2JaoNvzgKQrX-i2YBY5deRgCmXDyEaRnifDQnwn9kodHaGm7AuWftBAaIZ9JW7tdmb5ZqLDoBFXnTZ-vY5SGlPKc_zA5-jaQ9JlUd5LasqQB0IM1OtaoI866f7QdPPnycZpGSKTwwMXLeIzK-Lz6hdou7e4nGbHeWsa8kzk1DS4NzD0fJP5osQlu-GjVEZI2HKhAife0cVsGtr-JpqDsYLyR8lWlVASSLN2gp1yAMU5PHXYR9pNyWFvVFhah-0Wqk8JK3Dp-raGFoBOmcMTIyeiPhOBU7P-LLP25CVX-Zxc51RZuTRCjtVFaFjkNfOXaOkkfTeV0WqThLGlIghmamKPhgqM_aOl-sL9tNE8yaNcuop-G6M2YTuOrU-MhrI3nBaxpC2vVS2OQWUZbhEi7e1qGJaoXpDkl7T50afIogoDnC7ZlnDghFnNtFgstOnljU_y9DGm0PCgn_gsKUfKXeD8aDJz8NNu8fWAK5Vk35GcYlB-zuG5j4_1jznjcQh97LQTWMCAprzUFJ3sF9gSLi8QmCGoAVVREEnkJR-qsK281NU3w1uduC=w496-h336-no?authuser=0" width="301" height="200">
-           Las probabilidades del número de personas susceptibles disminuye(azul) , las probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de personas recuperadas aumenta(verde)
+          
+  Las probabilidades del número de personas susceptibles disminuye(azul) , las probabilidades del número de personas infectadas se mantiene constante(naranja), las probabilidades del número de personas recuperadas aumenta(verde)
     
 
 COLIMA CUARENTENA:
 
 <img src="https://lh3.googleusercontent.com/dI7veJIsZXmsIOBpsP6QqWpxVM7IjM4ZVyPekP5m8hcsy1wzmxbrx-teFqIDYw7MN5rGLn9afjAEWTjzPSM0MCt3ZTNElHmIOD9RF_kkQAZ2eYtzu_y3dJNW17yh5eOLpjVPXxK6IwIAM2Ly_4OkQBbgmz1NmGS8a4BTd-F6vKxpY2P-as27Bb-QLavB4MnIjKGX8M5VGPIGIc7ZpA6XDKBvF2Zbqs6gS0r_Un1bAlLYL79A0EmKSRDIzRgUZm-H1nRkcnbQ0Dtx2CWsyoDXci3nRqdwzQZtFa8idrpspBvM5NKDBPMAogRGsy8EIps5BhQ5XgriGToMlw7UVAI50Yh4kAVolfzfNxr8qKthVITgLxuqsL_f6RqVsjVbqYBvrc9Usqs4rdjhQVn_-KgYfOrMJWNeMPXsh4Mon19_s05rNiOkr_L611bIs7gWS3bp5eG1ELIK3R-a1v4O9Aye2-aVjPa8cRDl7wQCd3OqZxAA8stuIu3rDdlVlzWYl5tRs0wuW_0FhPv6itL3wnJ4ot2jgWTZZIjoLfRX1YBZuPv9tFsWov7Z2Q_YmJVeHSUOkbBZeTOizevfEyfn2LylET9kXXy060DiBqp_OZOk0HpWNIxtJG2KHGXJdigjsCVnjssX6jsiuu6rtjLq4EAv5Nqfv8IYjf1tgT47NbiGfpAvUC5XwJA8D6Tvd_XX=w373-h248-no?authuser=0" width="301" height="200">
-           Las probabilidades del número de  personas susceptibles disminuye(azul), las probabilidades del número de personas infectadas se mantiene constante (naranja) , las probabilidades del número de personas recuperadas aumenta(verde).
+          
+  Las probabilidades del número de  personas susceptibles disminuye(azul), las probabilidades del número de personas infectadas se mantiene constante (naranja) , las probabilidades del número de personas recuperadas aumenta(verde).
 
 COLIMA SEMÁFORO:
 
 <img src="https://lh3.googleusercontent.com/Dxxbsxuk9u18tW-FB88ayhV9FYwt80fGegB6ML_z_coCsEFFbCcLYSDqpvuOJYpr1hfiTjMqbUnAjNqLDKZqKg8G3zeLXx3xIDk3X3hKe75C7KKRYTsyzm054GvFDvjU5Ai7hM7z_BGZz4Cjvq_3pGbiT4lwhPJMsETD6XZYf9NlPSCy9DXH0sqS18AEaD9AkXZHAApXCz9JreZKqkc4FVVOgO0cG_2-L-ZDQqyip6PU13x9dRqPV8lKZrwtKSXTH9YvAqj1uau6Au_Oc9NDuso4bZfkDmepBkRv6fmOgP0YcaixAW8Fvs_2PmEyO9gGx_T3qtHitY-D5esjHFY5NMosdx6pJDRoj1ep341UsAL1i-VZ3aOwPCcbF46nqRazn0XrrBx_en9aNAc2uLN1HxV4Cs4K0Xo_p8hDCjiFBskLfnQ13T2FFgz0XSG3XPSrfwwWUFsMW9tbPZtcmJezSCDBNvylDpQftNV31_hNrTzCydVhZN-vbrwY0dytgS5w8iYorRwLn1xOI8l0HjnnbH-LiTFxL-Yku_zBR1Nln34KQaUkEbmLZj60NTHx9TebJjGFj-Iwke12X6xQg19yzqD4KC-8H1uIU2noyi5GFJerERrMPKYHB12b9gjLAIUsoY7FDKrChD9rM2qHKiCBBxU7OkEVHSlT4kPEyN5Y9wAi30yiTK70ZaBCqtwY=w372-h248-no?authuser=0" width="301" height="200">
-       Las probabilidades de que haya personas  susceptibles disminuye(azul), las probabilidades del número de personas infectadas se mantiene constante(naranja),las  probabilidades del número personas recuperadas aumenta(verde)      
+     
+   Las probabilidades de que haya personas  susceptibles disminuye(azul), las probabilidades del número de personas infectadas se mantiene constante(naranja),las  probabilidades del número personas recuperadas aumenta(verde)      
 
 # Conclusiones
 
