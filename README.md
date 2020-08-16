@@ -1,7 +1,10 @@
 # Comparación de medidas preventivas para *SARS-COV-2*
+
+<img src="https://www.gob.mx/cms/uploads/document/main_image/80552/Covid-19-1.jpg" width="400" height="300">
+
 # Subtítulos
 - [Introducción](#Introducción)
-- [Marco Teórico](#marco_Teórico)
+- [Marco Teórico](#Marco Teórico)
 - [Datos](#Datos)
 - [Conclusiones](#Conclusiones)
 - [Video](#Video)
@@ -104,19 +107,6 @@ colima_febrero:
 
 <img src="https://lh3.googleusercontent.com/k_qHOuvLHOs5mmwCpiKIQ8k5I-tXs_w65XSUL-IEE5x0EMSf4x_n8MWslDvZdBRkfKqPGWLcYY8YnchgcJcA_OnyRzhKjg9G0mCib8Xhy1CKzlTfBXxnQr80deWjHagHoC_I7frOSuVCBn-qv8Psyq1STdqmYT_DbmqpUrQ2SLYWm22y3E3thUBds8PjCLF333OB9JKXKK0vAk_sgqACo4OoRMdoFDO9BElCLKmhrhQoNfr7IPfPqIAcU5vLzXW5kSc0X6742N6756pAjCH46bO6vEauWJH7QUzM_MvW5Z5aS5PydaMvbfVggj35iGYgrwoRdxW9zzD6GCACce-tqr-lacO8lfTATakt7tuBl1H77DS5JZr-mDz3wiWUruVex3fQmGq75ETAT17yCnfDeqKaaiNS33RdvQ5axSaaa6wlXL_XY5uJhFk0MiRtX5fRtokCOcethUBwmxVK6Q7sdmqtPwnt9DIYA3zMm-1wrPxGcNrM7OQXwuGoBiZyLLNkHtgs1vtuhpZ6gIuTbtccXJaR2kINp8kNL2Xg_juHUTdGSoAdwfrjBUukz3kHkTUaj0so_mfzLWlX4-2lRnZAwLrWz_MF9BNW6t3MEfe3tlKhKs5HyuquWqfS-QEiQSYupW0xgLcCzF6Wpy8PGw8LLxNYrRJRJy69tVd3kIHrxkyUvCXIi-u_vXOpsYmk=w432-h288-no?authuser=0" width="300" height="200">
 
-CDMX_cuarentena:
-
-Colima_cuarentena:
-
-Colima_cuarentena1:
-
-CDMX_semaforo:
-
-Colima semaforo:
-
-
-Colima semaforo:
-
 
 # Conclusiones
 
@@ -128,7 +118,7 @@ En la hipótesis planteamos que los estados no proporcionaron medidas concretas 
 
 # Video
 
-[<img src="https://img.youtube.com/vi/FyFwko9O2UE/maxresdefault.jpg" width="400" height="200">](https://www.youtube.com/watch?v=jWLaOYCOTfo&feature=youtu.be)
+[<img src="https://lh3.googleusercontent.com/upf8TMSwp4yUvvXjaQo48LiBBNmNqs3k5vN4aqx5r2G7nJG61bwJv60j20Hic749-avjNqvMIdCK9UHJA3X1vLAIHSAfZpu5VHTl8y-Qjg1wcipRuZLdSd0FNknYl_YI9e6VgRyAJUL5shr7OtLqBLfgO8Ma-qj3txu5N8GTjd62hBbl3ObkaDrgpy4e4vPT9gDLQx4n0kgx-ZK_zVInFvfcOZckNLJZtaPLFGRF9c12-IGNzhH7pGoy8YSCwnj3xpnDKB4SPrzFSRDaoIOMNzypSFaFgqpkBa-slk9pPNB58zkeGvfgQZAanEroSDdMfz7uo5Aqk9VPmv1Xfl9lImEA8tTdPmQe_F2hUqcJD3lWfzwnMKZzM0vQm44FGvkNMUp8h16dRGllXBmALb7XnS9b2lhzVUNMrZ8K8wgrRJThjqN1NJJMXDjNAA5qim3ffZoXzf5L9HzhtgOnlA2WMekMsAwUsbqk012T40xiv7d5RACVpFvfsrrrZIsqCK2vbdCKD15ra4jnK90z9x9TmKx9V-2emQ9H-uJejE4z9CPMCzUmqemy6uuzP__uGMTEfKax5_Pf0GBGSyn33huWunmjVjvknz1E_AFt4_WCNyhjwP-xfNB68Hp28_xLnYPUGyXuRLdo01KfUt-Kb-5YpSJoB4xblcp4x6my9nSbufY2xXMm5B-dUZT-s-oW=w332-h155-no?authuser=0" width="400" height="200">](https://www.youtube.com/watch?v=jWLaOYCOTfo&feature=youtu.be)
 
 # Equipo B-8
 ## - Félix Emiliano Hernández Pérez
