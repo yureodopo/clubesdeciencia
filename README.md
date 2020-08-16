@@ -102,7 +102,7 @@ Las graficas obtenidas con los datos estan en el siguiente URL:
 
 (https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG)
 
-# imagenes
+# Imágenes
 
 CDMX FEBRERO:
 
@@ -121,7 +121,7 @@ CDMX SEMÁFORO:
 
 <img src="https://lh3.googleusercontent.com/ag569UVGy7FYnSFFEhi0vm7iNLZRcT-ijgq568szfZ-JVCAhd8quK6ROwFTB116X8K-dIKxuetCDT1UvQqlaxLhiMFAz58Zkt5bVxNoqFqGw0uS744w2qm5zfHUx6DuMLa1ub0qOrPYxRYlGxUnyIZbQ-EuXzTXASYcrxGTIX4jN5FWUSMPJO9mFw985Qnhr2MxZ8X5n7pyA5LyV-1Lz7At2rB4jQYiRywPp4Gs6YkObyFLdjqEZQnEblwPdsc5G4jHCjGLqyh-p3pBJldQQu62ZfqGuW6D795c9GBXCBfg0bVy_QXhiwBaRGEpppUXL7D5xxLLrfRFFzLNFcASPwL4Yl-4qHdieMppFKVzOYbcXZTvBEZoaJUMqxe5QhKFgfbtFPqzmdzgU0m7jBbHP9RxT1BvrmFd8_ck3_IxhMBVO263tTAtcp1SFl5-xR4nm0uLahXENGdGkTJbgYhTNifcVWTUuOL-Qd6II7bBYaalfu3Lo7_MZyTo2CI5go2B1YC8zDv85fHqCJnua6SC3ky1bJ1kLqDa2QtTofIdJshlJdRHyrUsWmSY3zYcTwkqxj5b0QGDsQacrrfjjqfultibwgoxsH66KUQ_kFskl5ueVAxRvndYZHt3cjAPKebIrfk9YJU_QvCui5_ORvj0xZlW0ABV_qo-Kp2Qv1a6T-mXJNYvcs2Y4KxJ1NcB3=w372-h248-no?authuser=0" width="301" height="200">
            
-  Las probabilidades del número de personas susceptibles disminuye (naranja) , las probabilidades del número de personas infectadas se mantiene constante (naranja), las probabilidades del número de personas recuperadas aumenta (verde).
+  Las probabilidades del número de personas susceptibles disminuye (azul) , las probabilidades del número de personas infectadas se mantiene constante (naranja), las probabilidades del número de personas recuperadas aumenta (verde).
 
 COLIMA FEBRERO:
 
