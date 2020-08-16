@@ -94,9 +94,11 @@ Crear un mejor modelo epidemiológico que nos permita evaluar las medidas y veri
 
 
 # Datos
-Los datos recabados estan en el siguiente URL: (https://docs.google.com/spreadsheets/d/16THYBJuzGIXUjoXdccNhuNpeCLrTRWs0Ocy9T_Mu9iA/edit#gid=0)
+Los datos recabados estan en el siguiente URL: 
+(https://docs.google.com/spreadsheets/d/16THYBJuzGIXUjoXdccNhuNpeCLrTRWs0Ocy9T_Mu9iA/edit#gid=0)
 
-Las graficas obtenidas con los datos estan en el siguiente URL: (https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG)
+Las graficas obtenidas con los datos estan en el siguiente URL: 
+(https://drive.google.com/drive/folders/1bbnZskNwCXv5INAJgtaA9EibB3Y8m9rG)
 # imagenes
 
 CDMX FEBRERO:
