@@ -128,9 +128,7 @@ En la hipótesis planteamos que los estados no proporcionaron medidas concretas 
 
 # Video
 
-[<img src="https://img.youtube.com/vi/FyFwko9O2UE/maxresdefault.jpg" width="400" height="200">](https://www.youtube.com/watch?v=FyFwko9O2UE&list=RDMMlrscdXiKnWc&index=4)
-
-<img src="https://www.clubesdeciencia.mx/static/theme/mx/logo10241024.png" width="200" height="150">
+[<img src="https://img.youtube.com/vi/FyFwko9O2UE/maxresdefault.jpg" width="400" height="200">](https://www.youtube.com/watch?v=jWLaOYCOTfo&feature=youtu.be)
 
 # Equipo B-8
 ## - Félix Emiliano Hernández Pérez
